@@ -17,7 +17,16 @@
             "episode": "EP-006, EP-007, EP-008, EP-022, EP-031, EP-042",
             "filename": "2026-03-06_buzz-post.md",
             "char_count": 4800
+        },
+        {
+            "date": "2026-03-12",
+            "type": "AI×転職ハック",
+            "theme": "転職活動を半分の時間で終わらせたAI活用術【全ステップ公開】",
+            "theme_id": 31,
+            "episode": "EP-002, EP-003, EP-006, EP-007, EP-008, EP-012, EP-013, EP-020, EP-022, EP-037, EP-040, EP-042, EP-043, EP-044, EP-045",
+            "filename": "2026-03-12_buzz-post.md",
+            "char_count": 3800
         }
     ],
-    "last_updated": "2026-03-06"
+    "last_updated": "2026-03-12"
 }
